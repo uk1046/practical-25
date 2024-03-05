@@ -1,0 +1,20 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/action_rotate_clockwise"
+        android:title="Rotate Clockwise" />
+    <item
+        android:id="@+id/action_rotate_anticlockwise"
+        android:title="Rotate Anti-clockwise" />
+    <item
+        android:id="@+id/action_zoom_in"
+        android:title="Zoom In" />
+    <item
+        android:id="@+id/action_zoom_out"
+        android:title="Zoom Out" />
+    <item
+        android:id="@+id/action_fade_in"
+        android:title="Fade In" />
+    <item
+        android:id="@+id/action_fade_out"
+        android:title="Fade Out" />
+</menu>
